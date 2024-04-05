@@ -1,5 +1,5 @@
 const { errorHandler } = require("../utils");
 
 exports.home = async (req, res, next) => {
-  res.json({"Authors":"ANH HÙNG BUỒI TO CHÀO CÁC EM NHÁ=))"});
+  res.json({"Authors":"API ĐANG HOẠT ĐỘNG BÌNH THƯỜNG"});
 };
